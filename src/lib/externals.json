@@ -1,0 +1,464 @@
+[
+  {
+    "@freightos/propera/layout": "ProperaFWlayout"
+  },
+  {
+    "@freightos/propera/layout/components": "ProperaFWlayoutcomponents"
+  },
+  {
+    "@freightos/propera/layout/currency": "ProperaFWlayoutcurrency"
+  },
+  {
+    "@freightos/propera/layout/currency/components": "ProperaFWlayoutcurrencycomponents"
+  },
+  {
+    "@freightos/propera/layout/images": "ProperaFWlayoutimages"
+  },
+  {
+    "@freightos/propera/layout/language": "ProperaFWlayoutlanguage"
+  },
+  {
+    "@freightos/propera/layout/language/components": "ProperaFWlayoutlanguagecomponents"
+  },
+  {
+    "@freightos/propera/layout/marketplace": "ProperaFWlayoutmarketplace"
+  },
+  {
+    "@freightos/propera/layout/marketplace/clean-layout": "ProperaFWlayoutmarketplacecleanlayout"
+  },
+  {
+    "@freightos/propera/layout/marketplace/components": "ProperaFWlayoutmarketplacecomponents"
+  },
+  {
+    "@freightos/propera/layout/profile": "ProperaFWlayoutprofile"
+  },
+  {
+    "@freightos/propera/layout/profile/components": "ProperaFWlayoutprofilecomponents"
+  },
+  {
+    "@freightos/propera/layout/sidebar": "ProperaFWlayoutsidebar"
+  },
+  {
+    "@freightos/propera/layout/sidebar/components": "ProperaFWlayoutsidebarcomponents"
+  },
+  {
+    "@freightos/propera/layout/sidepane": "ProperaFWlayoutsidepane"
+  },
+  {
+    "@freightos/propera/layout/sidepane/components": "ProperaFWlayoutsidepanecomponents"
+  },
+  {
+    "@freightos/propera/layout/userMessages": "ProperaFWlayoutuserMessages"
+  },
+  {
+    "@freightos/propera/packages": "ProperaFWpackages"
+  },
+  {
+    "@freightos/propera/packages/featureFlagging": "ProperaFWpackagesfeatureFlagging"
+  },
+  {
+    "@freightos/propera/packages/microfrontsStore": "ProperaFWpackagesmicrofrontsStore"
+  },
+  {
+    "@freightos/propera/packages/microfrontsStore/hooks": "ProperaFWpackagesmicrofrontsStorehooks"
+  },
+  {
+    "@freightos/propera/packages/microfrontsStore/microfronts": "ProperaFWpackagesmicrofrontsStoremicrofronts"
+  },
+  {
+    "@freightos/propera/propera": "ProperaFWpropera"
+  },
+  {
+    "@freightos/propera/propera/HTTP": "ProperaFWproperaHTTP"
+  },
+  {
+    "@freightos/propera/propera/analytics": "ProperaFWproperaanalytics"
+  },
+  {
+    "@freightos/propera/propera/auth": "ProperaFWproperaauth"
+  },
+  {
+    "@freightos/propera/propera/authUI": "ProperaFWproperaauthUI"
+  },
+  {
+    "@freightos/propera/propera/authUI/components": "ProperaFWproperaauthUIcomponents"
+  },
+  {
+    "@freightos/propera/propera/authUI/components/AuthTemplate": "ProperaFWproperaauthUIcomponentsAuthTemplate"
+  },
+  {
+    "@freightos/propera/propera/authUI/emailActivation": "ProperaFWproperaauthUIemailActivation"
+  },
+  {
+    "@freightos/propera/propera/authUI/forgetPassword": "ProperaFWproperaauthUIforgetPassword"
+  },
+  {
+    "@freightos/propera/propera/authUI/forgetPassword/components": "ProperaFWproperaauthUIforgetPasswordcomponents"
+  },
+  {
+    "@freightos/propera/propera/authUI/forgotPassword": "ProperaFWproperaauthUIforgotPassword"
+  },
+  {
+    "@freightos/propera/propera/authUI/forgotPassword/emailSent": "ProperaFWproperaauthUIforgotPasswordemailSent"
+  },
+  {
+    "@freightos/propera/propera/authUI/forgotPassword/linkExpired": "ProperaFWproperaauthUIforgotPasswordlinkExpired"
+  },
+  {
+    "@freightos/propera/propera/authUI/forgotPassword/requestEmail": "ProperaFWproperaauthUIforgotPasswordrequestEmail"
+  },
+  {
+    "@freightos/propera/propera/authUI/forgotPassword/updatePassword": "ProperaFWproperaauthUIforgotPasswordupdatePassword"
+  },
+  {
+    "@freightos/propera/propera/authUI/invitation": "ProperaFWproperaauthUIinvitation"
+  },
+  {
+    "@freightos/propera/propera/authUI/logIn": "ProperaFWproperaauthUIlogIn"
+  },
+  {
+    "@freightos/propera/propera/authUI/logIn/LogInForm": "ProperaFWproperaauthUIlogInLogInForm"
+  },
+  {
+    "@freightos/propera/propera/authUI/logOut": "ProperaFWproperaauthUIlogOut"
+  },
+  {
+    "@freightos/propera/propera/authUI/signUp": "ProperaFWproperaauthUIsignUp"
+  },
+  {
+    "@freightos/propera/propera/authUI/signUp/SignUpForm": "ProperaFWproperaauthUIsignUpSignUpForm"
+  },
+  {
+    "@freightos/propera/propera/authUIHost": "ProperaFWproperaauthUIHost"
+  },
+  {
+    "@freightos/propera/propera/components": "ProperaFWproperacomponents"
+  },
+  {
+    "@freightos/propera/propera/components/buttons": "ProperaFWproperacomponentsbuttons"
+  },
+  {
+    "@freightos/propera/propera/components/communication": "ProperaFWproperacomponentscommunication"
+  },
+  {
+    "@freightos/propera/propera/components/country": "ProperaFWproperacomponentscountry"
+  },
+  {
+    "@freightos/propera/propera/components/country/components": "ProperaFWproperacomponentscountrycomponents"
+  },
+  {
+    "@freightos/propera/propera/components/flags": "ProperaFWproperacomponentsflags"
+  },
+  {
+    "@freightos/propera/propera/components/form": "ProperaFWproperacomponentsform"
+  },
+  {
+    "@freightos/propera/propera/components/form/address": "ProperaFWproperacomponentsformaddress"
+  },
+  {
+    "@freightos/propera/propera/components/form/addressOrPorts": "ProperaFWproperacomponentsformaddressOrPorts"
+  },
+  {
+    "@freightos/propera/propera/components/form/addressOrPorts/components": "ProperaFWproperacomponentsformaddressOrPortscomponents"
+  },
+  {
+    "@freightos/propera/propera/components/form/asyncAutocomplete": "ProperaFWproperacomponentsformasyncAutocomplete"
+  },
+  {
+    "@freightos/propera/propera/components/form/autoSuggestInput": "ProperaFWproperacomponentsformautoSuggestInput"
+  },
+  {
+    "@freightos/propera/propera/components/form/checkbox": "ProperaFWproperacomponentsformcheckbox"
+  },
+  {
+    "@freightos/propera/propera/components/form/datePicker": "ProperaFWproperacomponentsformdatePicker"
+  },
+  {
+    "@freightos/propera/propera/components/form/dateRangePicker": "ProperaFWproperacomponentsformdateRangePicker"
+  },
+  {
+    "@freightos/propera/propera/components/form/digitInput": "ProperaFWproperacomponentsformdigitInput"
+  },
+  {
+    "@freightos/propera/propera/components/form/dropList": "ProperaFWproperacomponentsformdropList"
+  },
+  {
+    "@freightos/propera/propera/components/form/file": "ProperaFWproperacomponentsformfile"
+  },
+  {
+    "@freightos/propera/propera/components/form/inputField": "ProperaFWproperacomponentsforminputField"
+  },
+  {
+    "@freightos/propera/propera/components/form/labelWithTooltip": "ProperaFWproperacomponentsformlabelWithTooltip"
+  },
+  {
+    "@freightos/propera/propera/components/form/optionsList": "ProperaFWproperacomponentsformoptionsList"
+  },
+  {
+    "@freightos/propera/propera/components/form/switch": "ProperaFWproperacomponentsformswitch"
+  },
+  {
+    "@freightos/propera/propera/components/form/textarea": "ProperaFWproperacomponentsformtextarea"
+  },
+  {
+    "@freightos/propera/propera/components/form/unitInput": "ProperaFWproperacomponentsformunitInput"
+  },
+  {
+    "@freightos/propera/propera/components/layouts": "ProperaFWproperacomponentslayouts"
+  },
+  {
+    "@freightos/propera/propera/components/loaders": "ProperaFWproperacomponentsloaders"
+  },
+  {
+    "@freightos/propera/propera/components/special": "ProperaFWproperacomponentsspecial"
+  },
+  {
+    "@freightos/propera/propera/components/special/milestones": "ProperaFWproperacomponentsspecialmilestones"
+  },
+  {
+    "@freightos/propera/propera/components/special/sliders": "ProperaFWproperacomponentsspecialsliders"
+  },
+  {
+    "@freightos/propera/propera/components/special/stepper": "ProperaFWproperacomponentsspecialstepper"
+  },
+  {
+    "@freightos/propera/propera/components/special/videoPlayer": "ProperaFWproperacomponentsspecialvideoPlayer"
+  },
+  {
+    "@freightos/propera/propera/components/special/withLabel": "ProperaFWproperacomponentsspecialwithLabel"
+  },
+  {
+    "@freightos/propera/propera/components/styledData": "ProperaFWproperacomponentsstyledData"
+  },
+  {
+    "@freightos/propera/propera/components/table": "ProperaFWproperacomponentstable"
+  },
+  {
+    "@freightos/propera/propera/components/table/cell": "ProperaFWproperacomponentstablecell"
+  },
+  {
+    "@freightos/propera/propera/components/table/header": "ProperaFWproperacomponentstableheader"
+  },
+  {
+    "@freightos/propera/propera/components/toggleButtons": "ProperaFWproperacomponentstoggleButtons"
+  },
+  {
+    "@freightos/propera/propera/components/tooltips": "ProperaFWproperacomponentstooltips"
+  },
+  {
+    "@freightos/propera/propera/components/widgets": "ProperaFWproperacomponentswidgets"
+  },
+  {
+    "@freightos/propera/propera/components/widgets/slidepanel": "ProperaFWproperacomponentswidgetsslidepanel"
+  },
+  {
+    "@freightos/propera/propera/components/widgets/tabs": "ProperaFWproperacomponentswidgetstabs"
+  },
+  {
+    "@freightos/propera/propera/cookies": "ProperaFWproperacookies"
+  },
+  {
+    "@freightos/propera/propera/creditLine": "ProperaFWproperacreditLine"
+  },
+  {
+    "@freightos/propera/propera/creditLine/components": "ProperaFWproperacreditLinecomponents"
+  },
+  {
+    "@freightos/propera/propera/crossAppCommunication": "ProperaFWproperacrossAppCommunication"
+  },
+  {
+    "@freightos/propera/propera/customeMethods": "ProperaFWproperacustomeMethods"
+  },
+  {
+    "@freightos/propera/propera/customeMethods/components": "ProperaFWproperacustomeMethodscomponents"
+  },
+  {
+    "@freightos/propera/propera/endpoints": "ProperaFWproperaendpoints"
+  },
+  {
+    "@freightos/propera/propera/errors": "ProperaFWproperaerrors"
+  },
+  {
+    "@freightos/propera/propera/featureFlag": "ProperaFWproperafeatureFlag"
+  },
+  {
+    "@freightos/propera/propera/forms": "ProperaFWproperaforms"
+  },
+  {
+    "@freightos/propera/propera/forms/file": "ProperaFWproperaformsfile"
+  },
+  {
+    "@freightos/propera/propera/hooks": "ProperaFWproperahooks"
+  },
+  {
+    "@freightos/propera/propera/icons": "ProperaFWproperaicons"
+  },
+  {
+    "@freightos/propera/propera/layout": "ProperaFWproperalayout"
+  },
+  {
+    "@freightos/propera/propera/layout/componentLayout": "ProperaFWproperalayoutcomponentLayout"
+  },
+  {
+    "@freightos/propera/propera/layout/pageLayout": "ProperaFWproperalayoutpageLayout"
+  },
+  {
+    "@freightos/propera/propera/layout/pageLayout/components": "ProperaFWproperalayoutpageLayoutcomponents"
+  },
+  {
+    "@freightos/propera/propera/layout/popups": "ProperaFWproperalayoutpopups"
+  },
+  {
+    "@freightos/propera/propera/layout/popups/components": "ProperaFWproperalayoutpopupscomponents"
+  },
+  {
+    "@freightos/propera/propera/menus": "ProperaFWproperamenus"
+  },
+  {
+    "@freightos/propera/propera/monitoring": "ProperaFWproperamonitoring"
+  },
+  {
+    "@freightos/propera/propera/monitoring/idle": "ProperaFWproperamonitoringidle"
+  },
+  {
+    "@freightos/propera/propera/monitoring/timeOnPage": "ProperaFWproperamonitoringtimeOnPage"
+  },
+  {
+    "@freightos/propera/propera/monitoring/timeOnPage/components": "ProperaFWproperamonitoringtimeOnPagecomponents"
+  },
+  {
+    "@freightos/propera/propera/monitoring/timing": "ProperaFWproperamonitoringtiming"
+  },
+  {
+    "@freightos/propera/propera/monitoring/timing/components": "ProperaFWproperamonitoringtimingcomponents"
+  },
+  {
+    "@freightos/propera/propera/notifications": "ProperaFWproperanotifications"
+  },
+  {
+    "@freightos/propera/propera/payments": "ProperaFWproperapayments"
+  },
+  {
+    "@freightos/propera/propera/payments/stripe": "ProperaFWproperapaymentsstripe"
+  },
+  {
+    "@freightos/propera/propera/payments/stripe/components": "ProperaFWproperapaymentsstripecomponents"
+  },
+  {
+    "@freightos/propera/propera/preferences": "ProperaFWproperapreferences"
+  },
+  {
+    "@freightos/propera/propera/queryPage": "ProperaFWproperaqueryPage"
+  },
+  {
+    "@freightos/propera/propera/queryPage/components": "ProperaFWproperaqueryPagecomponents"
+  },
+  {
+    "@freightos/propera/propera/queryPage/components/Pagination": "ProperaFWproperaqueryPagecomponentsPagination"
+  },
+  {
+    "@freightos/propera/propera/queryPage/components/Table": "ProperaFWproperaqueryPagecomponentsTable"
+  },
+  {
+    "@freightos/propera/propera/queryPage/components/Table/cell": "ProperaFWproperaqueryPagecomponentsTablecell"
+  },
+  {
+    "@freightos/propera/propera/sanitization": "ProperaFWproperasanitization"
+  },
+  {
+    "@freightos/propera/propera/sellerSelector": "ProperaFWproperasellerSelector"
+  },
+  {
+    "@freightos/propera/propera/siteConfig": "ProperaFWproperasiteConfig"
+  },
+  {
+    "@freightos/propera/propera/siteConfig/salesPortalConfig": "ProperaFWproperasiteConfigsalesPortalConfig"
+  },
+  {
+    "@freightos/propera/propera/siteSanity": "ProperaFWproperasiteSanity"
+  },
+  {
+    "@freightos/propera/propera/translations": "ProperaFWproperatranslations"
+  },
+  {
+    "@freightos/propera/propera/user": "ProperaFWproperauser"
+  },
+  {
+    "@freightos/propera/propera/user/customsPaymentMethods": "ProperaFWproperausercustomsPaymentMethods"
+  },
+  {
+    "@freightos/propera/propera/user/customsPaymentMethods/components": "ProperaFWproperausercustomsPaymentMethodscomponents"
+  },
+  {
+    "@freightos/propera/propera/user/customsPaymentMethods/components/AchPopover": "ProperaFWproperausercustomsPaymentMethodscomponentsAchPopover"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin": "ProperaFWproperausersignupLogin"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/changePassword": "ProperaFWproperausersignupLoginchangePassword"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/components": "ProperaFWproperausersignupLogincomponents"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/confirmLogin": "ProperaFWproperausersignupLoginconfirmLogin"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/confirmLogin/components": "ProperaFWproperausersignupLoginconfirmLogincomponents"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/login": "ProperaFWproperausersignupLoginlogin"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/login/components": "ProperaFWproperausersignupLoginlogincomponents"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/resetPassword": "ProperaFWproperausersignupLoginresetPassword"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/resetPassword/components": "ProperaFWproperausersignupLoginresetPasswordcomponents"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/retryLogic": "ProperaFWproperausersignupLoginretryLogic"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/retryLogic/components": "ProperaFWproperausersignupLoginretryLogiccomponents"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/signup": "ProperaFWproperausersignupLoginsignup"
+  },
+  {
+    "@freightos/propera/propera/user/signupLogin/signup/components": "ProperaFWproperausersignupLoginsignupcomponents"
+  },
+  {
+    "@freightos/propera/propera/userActivities": "ProperaFWproperauserActivities"
+  },
+  {
+    "@freightos/propera/propera/utils": "ProperaFWproperautils"
+  },
+  {
+    "@freightos/propera/propera/utils/currency": "ProperaFWproperautilscurrency"
+  },
+  {
+    "@freightos/propera/propera/utils/date": "ProperaFWproperautilsdate"
+  },
+  {
+    "@freightos/propera/propera/utils/numbers": "ProperaFWproperautilsnumbers"
+  },
+  {
+    "@freightos/propera/propera/utils/object": "ProperaFWproperautilsobject"
+  },
+  {
+    "@freightos/propera/propera/utils/priceUtils": "ProperaFWproperautilspriceUtils"
+  },
+  {
+    "@freightos/propera/propera/utils/url": "ProperaFWproperautilsurl"
+  },
+  {
+    "@freightos/propera/router": "ProperaFWrouter"
+  },
+  {
+    "@freightos/propera/sdk": "ProperaFWsdk"
+  }
+]
